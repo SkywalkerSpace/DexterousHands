@@ -8,6 +8,14 @@
 [![Docs](https://img.shields.io/badge/Docs-In_development-red.svg "Author")](https://github.com/PKU-MARL "Docs")
 [![GitHub license](https://img.shields.io/github/license/PKU-MARL/DexterousHands)](https://github.com/PKU-MARL/DexterousHands/blob/main/LICENSE)
 
+### IsaacLab
+
+[IsaacLab](https://github.com/isaac-sim/IsaacLab)
+
+[Isaac Lab Local Installation](https://isaac-sim.github.io/IsaacLab/main/source/setup/installation/index.html)
+
+[Migration Guides From IsaacGymEnvs](https://isaac-sim.github.io/IsaacLab/main/source/migration/migrating_from_isaacgymenvs.html)
+
 ### Update
 
 [2023/02/09] We re-package the Bi-DexHands. Now you can call the Bi-DexHands' environments not only on the command line, but also in your Python script. check our README [Use Bi-DexHands in Python scripts](#Use-Bi-DexHands-in-Python-scripts) below.
